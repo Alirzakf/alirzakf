@@ -29,5 +29,3 @@ Portfolio projects will be added as they are completed.
 
 - Email: alirzakf@gmail.com
 - GitHub: https://github.com/alirzakf
-  
-- ثث
