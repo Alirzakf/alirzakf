@@ -3,27 +3,45 @@
 **B.Sc. in Industrial Engineering**  
 **NODET (National Organization for Development of Exceptional Talents)**
 
-Currently preparing for graduate studies in Data Science while developing practical experience through software engineering, data analysis, and portfolio projects.
+Incoming M.Sc. Data Science student with a strong interest in Machine Learning, Predictive Analytics, and Software Engineering. Currently building a portfolio of reproducible, well-documented data science projects while strengthening mathematical and programming foundations.
 
 ## Areas of Interest
 
 - Data Science
 - Machine Learning
 - Artificial Intelligence
-- Data Analytics
+- Predictive Analytics
 - Software Engineering
 
-## Current Technical Focus
+## Current Technical Stack
 
 - Python
+- NumPy
 - Pandas
+- Scikit-learn
 - Statistics
+- Git & GitHub
 
-Future work will include SQL, Power BI, Machine Learning, and end-to-end Data Science projects.
+Currently expanding into SQL, Data Visualization, Cloud Technologies, and advanced Machine Learning.
 
-## Selected Projects
+## Featured Project
 
-Portfolio projects will be added as they are completed.
+### NASA C-MAPSS Predictive Maintenance
+
+A complete Remaining Useful Life (RUL) prediction pipeline using the NASA C-MAPSS FD001 turbofan engine dataset.
+
+Highlights:
+
+- Leakage-safe feature engineering
+- Engine-level validation
+- HistGradientBoosting model
+- SHAP model interpretability
+- Automated testing with Pytest
+- GitHub Actions CI
+- Reproducible project structure
+
+🔗 Repository:
+https://github.com/Alirzakf/Aircraft-Engine-Predictive-Maintenance-NASA-C-MAPSS
 
 ## Contact
 
